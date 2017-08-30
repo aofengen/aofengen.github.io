@@ -162,11 +162,12 @@ header.masthead {
   padding-top: 100px;
   padding-bottom: 50px;
   text-align: center;
-  color: white;
-  background: #18BC9C; }
+  color: black;
+  background-image: url('../img/top-background.jpg');}
   header.masthead img {
     display: block;
-    margin: 0 auto 20px; }
+    margin: 0 auto 20px; 
+    border: solid 1px black; }
   header.masthead .intro-text .name {
     font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
     font-size: 2em;
