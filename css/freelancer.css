@@ -176,7 +176,7 @@ header.masthead {
     text-transform: uppercase; }
   header.masthead .intro-text .skills {
     font-size: 1.25em;
-    font-weight: 300; }
+    font-weight: 350; }
 
 @media (min-width: 768px) {
   header.masthead {
