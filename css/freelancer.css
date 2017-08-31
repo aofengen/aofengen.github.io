@@ -64,6 +64,11 @@ hr.star-primary:after {
   color: black;
   background-color: white; }
 
+.img-fluid {
+  width: 350px;
+  height: 190px;
+}
+
 .img-centered {
   margin: 0 auto; }
 
@@ -297,6 +302,11 @@ header.masthead {
 #about{
   background-image: url('../img/about-me-background.jpg');
   color: black;
+}
+
+.aboutP {
+  text-shadow: #fff 0px 0px 15px;
+  font-size: 22px;
 }
 
 .floating-label-form-group {
