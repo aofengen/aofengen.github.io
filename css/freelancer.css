@@ -173,10 +173,12 @@ header.masthead {
     font-size: 2em;
     font-weight: 700;
     display: block;
-    text-transform: uppercase; }
+    text-transform: uppercase;
+    background-color: white; }
   header.masthead .intro-text .skills {
     font-size: 1.25em;
-    font-weight: 350; }
+    font-weight: 350;
+    background-color: white; }
 
 @media (min-width: 768px) {
   header.masthead {
