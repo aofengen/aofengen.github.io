@@ -195,7 +195,7 @@ header.masthead {
       font-size: 1.75em; } }
 
 #portfolio {
-  background-image: url('../img/portfolio-background.jpg');
+  background-image: url('../img/about-me-background.jpg');
   color: white;
 }
 #portfolio .portfolio-item {
@@ -300,7 +300,7 @@ header.masthead {
   opacity: 0; }
 
 #about{
-  background-image: url('../img/about-me-background.jpg');
+  background-image: url('../img/portfolio-background.jpg');
   color: black;
 }
 
