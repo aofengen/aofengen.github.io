@@ -13,6 +13,10 @@ p {
 p.small {
   font-size: 16px; }
 
+.aboutItems p {
+  margin-bottom: 5px;
+}
+
 a,
 a.active,
 a:active,
@@ -197,6 +201,8 @@ header.masthead {
 #portfolio {
   background-image: url('../img/about-me-background.jpg');
   color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 #portfolio .portfolio-item {
   right: 0;
@@ -302,6 +308,8 @@ header.masthead {
 #about{
   background-image: url('../img/portfolio-background.jpg');
   color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .aboutP {
@@ -358,6 +366,8 @@ header.masthead {
 #contact {
   background-image: url('../img/contact-background.jpg');
   color: white;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 footer {
